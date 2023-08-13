@@ -31,8 +31,8 @@
 3. `Клонирован в ~/projects/git_1/8-3-hw`
 4. `Изменины глобальные настройки`
 5. ``
-6. 'https://github.com/DubininDenis/8-3-hw/blob/master/README.md'
-   'https://github.com/DubininDenis/8-3-hw/commit/c511fd9a43fe92448cd6474bb5c7bc0c9e9d93b1'
+6. 'https://github.com/DubininDenis/git_1/commit/0a095a1f996ec85893eb348943abdea2f854a6dd'
+
 
 
 
