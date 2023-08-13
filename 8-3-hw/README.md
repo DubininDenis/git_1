@@ -32,6 +32,8 @@
 4. `Изменины глобальные настройки`
 5. ``
 6. 'https://github.com/DubininDenis/8-3-hw/blob/master/README.md'
+   'https://github.com/DubininDenis/8-3-hw/commit/c511fd9a43fe92448cd6474bb5c7bc0c9e9d93b1'
+
 
 
 
